@@ -25,4 +25,5 @@ def operation(nm1,nm2):
 data_1=int(input(f"Enter first number:"))
 data_2=int(input(f"Enter second number:"))
 print(f"Result:{operation(data_1,data_2)}")
-        
+    
+
